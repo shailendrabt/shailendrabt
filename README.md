@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Bioinformaticians, Machine Learning, Deep Learning Computer Science , Who's interested in working on interdislipinary area.**
 
-- 🤝 I’m looking for help with **students, reserachers and anyone who is seeking help realted to all these mention area.**
+- 🤝 I’m ready to help **students, reserachers and anyone who is seeking help realted to all these mention area.**
 
 - 👨‍💻 All of my projects are available at [https://scholar.google.com/citations?hl=en-US&user=ZUGKpUcAAAAJ](https://scholar.google.com/citations?hl=en-US&user=ZUGKpUcAAAAJ)
 
