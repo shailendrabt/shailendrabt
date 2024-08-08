@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shailendra S. Maurya</h1>
 <h3 align="center">A passionate frontend Computational Biologist trained in both Wet Lab & Dry Lab</h3>
 
-<img align="right" alt="coding" width ="800" src="https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif">
+<img align="right" alt="coding" width ="800" src="https://md-tabassum-hossain-emon.netlify.app/project/ngs/featured.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailendrabt&label=Profile%20views&color=0e75b6&style=flat" alt="shailendrabt" /> </p>
 
@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shailendrabt&show_icons=true&locale=en" alt="shailendrabt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shailendrabt&" alt="shailendrabt" /></p>
+<img align="right" alt="coding" width ="800" src= "https://miro.medium.com/v2/resize:fit:1358/1*1oTDnw0B32cdT0J1fBmKWg.gif">
